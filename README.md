@@ -1,2 +1,2 @@
-# text_classification_data_science
-Text classification on banking transaction descriptions in order to separate them into different categories.
+# Text Classification in Banking Transactions
+Text classification task on banking transaction descriptions in order to separate them into different distinct categories. This project portrays a realistic use case of text classification, where we attempt to build a model that can predict which bank transaction category a specific transaction falls within, purely by using the associated bank transaction text.
